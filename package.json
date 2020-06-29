@@ -1,0 +1,11 @@
+{
+  "name": "everflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "Daniel M",
+  "license": "ISC",
+  "typeScriptVersion": "2.0",
+  "types": "index"
+}
