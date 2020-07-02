@@ -44,6 +44,7 @@ export interface IConversionOptions extends IAllBase {
     order?: string;
     order_id?: string;
     parameters?: { [key: string]: any };
+    event_id?: string;
 }
 
 export interface IConversionReturn {
